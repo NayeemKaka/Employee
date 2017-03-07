@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="emp_name" table="x_26791_employee_testemployee">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="address" table="x_26791_employee_testemployee">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>First Name</column_label>
+        <column_label>Address</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,7 +27,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>emp_name</element>
+        <element>address</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
@@ -50,18 +50,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-03-07 09:50:47</sys_created_on>
+        <sys_created_on>2017-03-07 10:00:49</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>3b43d9260f113200237e47ace1050e45</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>First Name</sys_name>
+        <sys_id>f4b515660f113200237e47ace1050ed1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Address</sys_name>
         <sys_package display_value="Employee" source="x_26791_employee">d70351a20f113200237e47ace1050ef9</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Employee">d70351a20f113200237e47ace1050ef9</sys_scope>
-        <sys_update_name>sys_dictionary_x_26791_employee_testemployee_emp_name</sys_update_name>
+        <sys_update_name>sys_dictionary_x_26791_employee_testemployee_address</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-03-07 10:00:48</sys_updated_on>
+        <sys_updated_on>2017-03-07 10:00:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
