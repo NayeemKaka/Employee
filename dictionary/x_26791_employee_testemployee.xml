@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="TestEmployee" max_length="40" name="x_26791_employee_testemployee" type="collection">
+        <element label="Emp Name" max_length="40" name="emp_name" type="string"/>
+        <element display="true" label="Emp No" max_length="40" name="emp_no" type="integer"/>
+    </element>
+</database>

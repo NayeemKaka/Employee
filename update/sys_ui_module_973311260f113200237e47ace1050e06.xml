@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="TestEmployee">9f3311260f113200237e47ace1050e05</application>
+        <filter/>
+        <name>TestEmployees</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_26791_employee_testemployee_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-07 09:49:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>973311260f113200237e47ace1050e06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestEmployees</sys_name>
+        <sys_package display_value="Employee" source="x_26791_employee">d70351a20f113200237e47ace1050ef9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Employee">d70351a20f113200237e47ace1050ef9</sys_scope>
+        <sys_update_name>sys_ui_module_973311260f113200237e47ace1050e06</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-07 09:49:40</sys_updated_on>
+        <table>x_26791_employee_testemployee</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
