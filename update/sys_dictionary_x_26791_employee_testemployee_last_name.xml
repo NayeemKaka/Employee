@@ -51,8 +51,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-07 10:00:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>b8a591a60f113200237e47ace1050ed7</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>87899de60f113200237e47ace1050e35</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Last Name</sys_name>
         <sys_package display_value="Employee" source="x_26791_employee">d70351a20f113200237e47ace1050ef9</sys_package>
@@ -60,8 +60,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Employee">d70351a20f113200237e47ace1050ef9</sys_scope>
         <sys_update_name>sys_dictionary_x_26791_employee_testemployee_last_name</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-03-07 10:00:49</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-03-07 10:17:15</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
